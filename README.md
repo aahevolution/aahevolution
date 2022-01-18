@@ -1,7 +1,8 @@
+
 Hola ! This is Ashish Bodhijani 👋
 
 - 🔭 I’m currently working on data science projects!            
-- 🌱 I love to learn new things and ready to help others.
+- 🌱 I love to learn new things and ready to help others.                                                             https://bit.ly/33qpaCJ
 - 👯 I’m looking to collaborate on any software based or data science projects
 - 🎓 B.Tech in Computer Science from PIET, Jaipur.
 - ☕ A perfect cup of Coffee is the ultimate solution for any stress.
