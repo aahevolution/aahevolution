@@ -17,6 +17,9 @@ Hola ! This is Ashish Bodhijani 👋
 📊   Power BI | Tableau | SPSS
 
 
+https://github-readme-stats.vercel.app/api?username=aahevolution&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
+
 
 ![Ashish (1)](https://user-images.githubusercontent.com/38393410/149876133-7271a6d1-58b6-4421-a4bd-7f8792b1bbe5.png)
 
