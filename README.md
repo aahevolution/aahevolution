@@ -1,8 +1,5 @@
 Hola ! This is Ashish Bodhijani 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on data science projects!            
 - 🌱 I love to learn new things and ready to help others.
 - 👯 I’m looking to collaborate on any software based or data science projects
