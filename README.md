@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 📊   Power BI | Tableau | SPSS
 
 
-https://github.com/aahevolution/aahevolution/blob/main/Ashish%20(2).png
