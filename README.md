@@ -3,7 +3,7 @@ Hola ! This is Ashish Bodhijani 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on data science projects!            [Ashish (1)](https://user-images.githubusercontent.com/38393410/149875936-ca2f6094-8e14-4a53-a731-afd7128eb373.png)
+- 🔭 I’m currently working on data science projects!            
 - 🌱 I love to learn new things and ready to help others.
 - 👯 I’m looking to collaborate on any software based or data science projects
 
@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 💻   Python | C++ | C
 🛢   Firebase | MySQL 
 📊   Power BI | Tableau | SPSS
+
+
+
+![Ashish (1)](https://user-images.githubusercontent.com/38393410/149876133-7271a6d1-58b6-4421-a4bd-7f8792b1bbe5.png)
 
 
