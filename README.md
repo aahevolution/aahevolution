@@ -1,5 +1,6 @@
+<h1 style="font-size:80px">Hola ! This is Ashish Bodhijani 👋</h1>
+<h2 style="font-size:60px">Connect with me 🤝🏻</h2>
 
-Hola ! This is Ashish Bodhijani 👋
 <img align="right" src="https://github.com/aahevolution/aahevolution/blob/main/gif3.gif" width="400" height="300" > 
 
 
