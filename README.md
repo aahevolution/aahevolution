@@ -1,7 +1,7 @@
 
 Hola ! This is Ashish Bodhijani 👋
 
-- 🔭 I’m currently working on data science projects!                          <img src="https://github.com/aahevolution/aahevolution/blob/main/gif3.gif" width="500" height="500">    
+- 🔭 I’m currently working on data science projects!                          <img src="https://github.com/aahevolution/aahevolution/blob/main/gif3.gif" width="auto" height="auto"> 
 - 🌱 I love to learn new things and ready to help others.                                                             
 - 👯 I’m looking to collaborate on any software based or data science projects
 - 🎓 B.Tech in Computer Science from PIET, Jaipur.
