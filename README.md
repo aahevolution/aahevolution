@@ -1,6 +1,10 @@
 <h1 style="font-size:80px">Hola ! This is Ashish Bodhijani 👋</h1>
 <h2 style="font-size:60px">Connect with me 🤝🏻</h2>
 
+![](https://komarev.com/ghpvc/?username=aahevolution)
+<a href=”https://www.linkedin.com/in/ashish-bodhijani-4b3579229"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+
 <img align="right" src="https://github.com/aahevolution/aahevolution/blob/main/gif3.gif" width="400" height="300" > 
 
 
