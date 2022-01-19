@@ -1,3 +1,5 @@
+![Ashish (1)](https://user-images.githubusercontent.com/38393410/150061500-b0c62898-191d-4451-9574-b23aae0315d5.png)
+
 <h1 style="font-size:80px">Hola ! This is Ashish Bodhijani 👋</h1>
 <h2 style="font-size:60px">Connect with me 🤝🏻</h2>
 
