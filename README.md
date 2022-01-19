@@ -3,6 +3,9 @@
 <h1 style="font-size:80px">Hola ! This is Ashish Bodhijani 👋</h1>
 <h2 style="font-size:60px">Connect with me 🤝🏻</h2>
 
+[![Gmail Badge](https://img.shields.io/badge/bodhijaniashish@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:bodhijaniashish@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/ashish-bodhijani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashish-bodhijani-4b3579229/)
+[![Instagram Badge](https://img.shields.io/badge/AshishBodhijani-30302f?style=flat&logo=instagram)](https://www.instagram.com/the_contemplation_beast/)
 ![](https://komarev.com/ghpvc/?username=aahevolution)
 
 
