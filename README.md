@@ -23,7 +23,7 @@
 
 🛠 Tech Stack
 
-- 💻  Python | Java
+- 💻  Python | R
 - 🛢   Firebase | MySQL 
 - 📊   Power BI | Tableau | SPSS
 
