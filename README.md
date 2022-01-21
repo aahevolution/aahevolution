@@ -1,4 +1,6 @@
-![Ashish (1)](https://user-images.githubusercontent.com/38393410/150061500-b0c62898-191d-4451-9574-b23aae0315d5.png)
+<p><a href="https://aahevolution.github.io/AshishBodhijanigithub.io/#top">
+<img src="https://github.com/aahevolution/AshishBodhijanigithub.io/blob/main/images/Ashish%20(2).png"  width="auto" height="auto">
+</a></p>
 
 <h1 style="font-size:80px">Hola ! This is Ashish Bodhijani 👋</h1>
 <h2 style="font-size:60px">Connect with me 🤝🏻</h2>
