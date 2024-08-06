@@ -25,8 +25,8 @@
 🎓 B.Tech in Computer Science from PIET, Jaipur, blending tech knowledge with a passion for cloud and DevOps.
 
 ☕ Fueling my cloud and DevOps pursuits with the perfect cup of coffee and boundless creativity.
+ <img src="https://github-readme-stats.vercel.app/api?username=aahevolution&&show_icons=true&title_color=#D5D4DF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="300" style="float: right; margin-left: 20px;">
 
-<img align="right"  src = "https://github-readme-stats.vercel.app/api?username=aahevolution&&show_icons=true&title_color=#D5D4DF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="500" height="500">
 
 **🛠 TECH STACK**
 
