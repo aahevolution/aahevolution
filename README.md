@@ -24,11 +24,9 @@
 
 🎓 B.Tech in Computer Science from PIET, Jaipur, blending tech knowledge with a passion for cloud and DevOps.
 
-<img align="right"  src = "https://github-readme-stats.vercel.app/api?username=aahevolution&&show_icons=true&title_color=#D5D4DF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="300">
-
 ☕ Fueling my cloud and DevOps pursuits with the perfect cup of coffee and boundless creativity.
 
-
+<img align="right"  src = "https://github-readme-stats.vercel.app/api?username=aahevolution&&show_icons=true&title_color=#D5D4DF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="300">
  
 **🛠 TECH STACK**
 
@@ -36,7 +34,10 @@
 
 🖥 Operating Systems: Linux (Ubuntu, CentOS) | Windows
 
+🌐 Networking: DNS | VPN | Load Balancers
+
 📊 Productivity Suites: M-Suite | G-Suite
+
 
 
 
