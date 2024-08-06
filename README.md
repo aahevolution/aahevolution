@@ -11,14 +11,13 @@
 ![](https://komarev.com/ghpvc/?username=aahevolution)
 
 
-<img align="right" src="https://github.com/aahevolution/aahevolution/blob/main/gif3.gif" width="400" height="300" > 
-<img align="right"  src = "https://github-readme-stats.vercel.app/api?username=aahevolution&&show_icons=true&title_color=#D5D4DF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="300">
-
+<img align="right" src="https://github.com/aahevolution/aahevolution/blob/main/gif3.gif" width="400" height="300" >
 
 
 👨🏻‍💻   **ABOUT ME**       
 
 🔭 Diving deep into cloud innovations and DevOps magic, perfecting deployments and crafting seamless infrastructure.
+<img align="right"  src = "https://github-readme-stats.vercel.app/api?username=aahevolution&&show_icons=true&title_color=#D5D4DF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="300">
 
 🌱 Always on a quest to master new cloud and DevOps skills, and ready to ignite ideas with fellow tech enthusiasts.
 
@@ -27,6 +26,7 @@
 🎓 B.Tech in Computer Science from PIET, Jaipur, blending tech knowledge with a passion for cloud and DevOps.
 
 ☕ Fueling my cloud and DevOps pursuits with the perfect cup of coffee and boundless creativity.
+
 
  
 **🛠 TECH STACK**
