@@ -19,9 +19,13 @@
 👨🏻‍💻   About Me       
                                               
 🔭 Diving deep into cloud innovations and DevOps magic, perfecting deployments and crafting seamless infrastructure.
+
 🌱 Always on a quest to master new cloud and DevOps skills, and ready to ignite ideas with fellow tech enthusiasts.
+
 👯 Eager to join forces on cutting-edge cloud projects, automation adventures, and CI/CD journeys.
+
 🎓 B.Tech in Computer Science from PIET, Jaipur, blending tech knowledge with a passion for cloud and DevOps.
+
 ☕ Fueling my cloud and DevOps pursuits with the perfect cup of coffee and boundless creativity.
 
 🛠 Tech Stack
