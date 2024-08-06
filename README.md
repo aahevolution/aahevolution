@@ -17,7 +17,7 @@
 
 
 👨🏻‍💻   About Me                                                     
-- 🔭 I’m currently working on data science projects!                          
+- 🔭 I’m currently working on cloud and devops related projects!                          
 - 🌱 I love to learn new things and ready to help others.                                                             
 - 👯 I’m looking to collaborate on any software based or data science projects
 - 🎓 B.Tech in Computer Science from PIET, Jaipur.
@@ -26,9 +26,9 @@
 
 🛠 Tech Stack
 
-- 💻  Python | R
-- 🛢   Firebase | MySQL 
-- 📊   Power BI | Tableau | SPSS
+- 💻  M-Suite | G-Suite
+- 🛢   MySQL 
+- 📊  AWS | Azure 
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=aahevolution&&show_icons=true&title_color=#D5D4DF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
