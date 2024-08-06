@@ -14,8 +14,8 @@
 <img align="right" src="https://github.com/aahevolution/aahevolution/blob/main/gif3.gif" width="400" height="300" > 
 
 
-👨🏻‍💻   About Me       
-                                              
+👨🏻‍💻   **ABOUT ME**       
+
 🔭 Diving deep into cloud innovations and DevOps magic, perfecting deployments and crafting seamless infrastructure.
 
 🌱 Always on a quest to master new cloud and DevOps skills, and ready to ignite ideas with fellow tech enthusiasts.
@@ -28,7 +28,7 @@
 
 
 
-🛠 Tech Stack
+**🛠 TECH STACK**
 
 💻 Cloud Platforms: AWS | Azure | GCP
 
