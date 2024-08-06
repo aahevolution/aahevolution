@@ -16,19 +16,26 @@
 
 
 
-👨🏻‍💻   About Me                                                     
-- 🔭 I’m currently working on cloud and devops related projects!                          
-- 🌱 I love to learn new things and ready to help others.                                                             
-- 👯 I’m looking to collaborate on any software based or data science projects
-- 🎓 B.Tech in Computer Science from PIET, Jaipur.
-- ☕ A perfect cup of Coffee is the ultimate solution for any stress.
+👨🏻‍💻   About Me       
+                                              
+🔭 Diving deep into cloud innovations and DevOps magic, perfecting deployments and crafting seamless infrastructure.
+
+🌱 Always on a quest to master new cloud and DevOps skills, and ready to ignite ideas with fellow tech enthusiasts.
+
+👯 Eager to join forces on cutting-edge cloud projects, automation adventures, and CI/CD journeys.
+
+🎓 B.Tech in Computer Science from PIET, Jaipur, blending tech knowledge with a passion for cloud and DevOps.
+
+☕ Fueling my cloud and DevOps pursuits with the perfect cup of coffee and boundless creativity.
 
 
 🛠 Tech Stack
 
-- 💻  M-Suite | G-Suite
-- 🛢   MySQL 
-- 📊  AWS | Azure 
+💻 Cloud Platforms: AWS | Azure | GCP
+🛢 Databases: MySQL | NoSQL
+🖥 Operating Systems: Linux (Ubuntu, CentOS) | Windows
+🌐 Networking: DNS | VPN | Load Balancers
+📊 Productivity Suites: M-Suite | G-Suite
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=aahevolution&&show_icons=true&title_color=#D5D4DF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
